@@ -7,7 +7,10 @@ Ce projet contient les exercices du TP3 en C++.
 
 Voici les résultats d’exécution :
 
+Exercice 1 :
 ![Exécution 1](images/Gestion-Compte-Bancaire.JPG)
+
+Exercice 2 :
 ![Exécution 2](images/Gestion-Buffer-Dynamique.JPG)
 
 ---
